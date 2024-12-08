@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "뿅망치"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "문소정"
+name                     : "Mun"
 description              : "An amazing website."
 url                      : "https://mu-nss.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
